@@ -160,7 +160,8 @@ For each project group:
 
 ## ACKNOWLEDGEMENTS (NO NEED TO SEE IF YOU JUST WANT TO FINISH THE PROJECT)
 
-[Original JHU repository](https://github.com/jhu-cs318/pintos, https://github.com/CreeperLin/pintos/tree/ac4b6d0d1cadea10ba94dbea51b37f4ac012ff2f)
+[Original ](https://github.com/jhu-cs318/pintos)
+[repository](https://github.com/CreeperLin/pintos/tree/ac4b6d0d1cadea10ba94dbea51b37f4ac012ff2f)
 
 [Stanford CS 140 Pintos Project](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html)
 
