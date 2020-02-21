@@ -1,6 +1,6 @@
-# System2019
+# System2020
 
-Project resources for System(II) 2019 Spring
+Project resources for System(II) 2020 Spring
 
 Stay tuned
 
@@ -8,8 +8,7 @@ Stay tuned
 
 on top of your own repository, run
 
-    git pull https://github.com/CreeperLin/System2019
-    git submodule update
+    git pull https://github.com/LiJiasen-00921/PintOS-Assignment
 
 ## Assignments
 
@@ -152,14 +151,16 @@ For each project group:
 
 - Fork or pull this repository to your private github repository.
 - Add creeperlin as collabrator and grant read permission.
-- Fill up the group infromation in this [form.](https://shimo.im/sheets/FOQMFyh7ovU8SPeW)
+- Fill up the group infromation in this [form.](https://docs.google.com/spreadsheets/d/1fXb2yQkMQXij3VqJXAAy5lvxMgXSxpLdNUlsnX-DO7A/edit?usp=sharing)
 - make sure your repo has a pintos source folder named 'src', and put your documents in top-level directory or 'docs' folder.
 
 ## References
 
 [JHU CS 318 Pintos Project](https://cs.jhu.edu/~huang/cs318/fall17/project/guide.html)
 
-[Original JHU repository](https://github.com/jhu-cs318/pintos)
+## ACKNOWLEDGEMENTS (NO NEED TO SEE IF YOU JUST WANT TO FINISH THE PROJECT)
+
+[Original JHU repository](https://github.com/jhu-cs318/pintos, https://github.com/CreeperLin/pintos/tree/ac4b6d0d1cadea10ba94dbea51b37f4ac012ff2f)
 
 [Stanford CS 140 Pintos Project](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html)
 
