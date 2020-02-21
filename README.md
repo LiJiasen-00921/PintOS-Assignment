@@ -158,7 +158,7 @@ For each project group:
 
 [JHU CS 318 Pintos Project](https://cs.jhu.edu/~huang/cs318/fall17/project/guide.html)
 
-## ACKNOWLEDGEMENTS (NO NEED TO SEE IF YOU JUST WANT TO FINISH THE PROJECT)
+#### ACKNOWLEDGEMENTS (NO NEED TO SEE IF YOU JUST WANT TO FINISH THE PROJECT)
 
 [Original ](https://github.com/jhu-cs318/pintos)
 [repository](https://github.com/CreeperLin/pintos/tree/ac4b6d0d1cadea10ba94dbea51b37f4ac012ff2f)
