@@ -150,7 +150,8 @@ Your documents may include:
 For each project group:
 
 - Fork or pull this repository to your private github repository.
-- Add creeperlin as collabrator and grant read permission.
+- Add LiJiasen-00921 as collabrator.
+- Set your repository public after the deadline for 3 months.
 - Fill up the group infromation in this [form.](https://docs.google.com/spreadsheets/d/1fXb2yQkMQXij3VqJXAAy5lvxMgXSxpLdNUlsnX-DO7A/edit?usp=sharing)
 - make sure your repo has a pintos source folder named 'src', and put your documents in top-level directory or 'docs' folder.
 
