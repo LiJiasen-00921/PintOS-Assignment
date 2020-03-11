@@ -22,7 +22,7 @@ A small and simple operating system that runs on x86 machines and simulators.
 - Perl
 - GNU make
 - GDB
-- QEMU: fast x86 simulation with binary translation, but only supports real-time mode
+- [QEMU](https://www.qemu.org/index.html): fast x86 simulation with binary translation, but only supports real-time mode
 - Bochs: slower simulation but supports real-time and reproducible mode
 
 To install Bochs, make sure the following library is installed:
