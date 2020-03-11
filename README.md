@@ -161,6 +161,8 @@ For each project group:
 
 [Stanford CS 140 Pintos Project](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html)
 
+[Project Document](https://cs.jhu.edu/~huang/cs318/fall17/project/pintos.html)
+
 #### ACKNOWLEDGEMENTS (NO NEED TO SEE IF YOU JUST WANT TO FINISH THE PROJECT)
 
 [Original ](https://github.com/jhu-cs318/pintos)
