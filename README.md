@@ -16,7 +16,7 @@ on top of your own repository, run
 
 A small and simple operating system that runs on x86 machines and simulators.
 
-### Prerequisites
+### [Prerequisites](https://www.cs.jhu.edu/~huang/cs318/fall17/project/setup.html)
 
 - GCC with 80x86 cross-compiler
 - Perl
